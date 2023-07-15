@@ -1,2 +1,3 @@
 for i in range(10):
     print("69")
+print("done")
